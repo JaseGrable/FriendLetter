@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FriendLetter/1.0.0": {
+        "runtime": {
+          "FriendLetter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FriendLetter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
